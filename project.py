@@ -144,7 +144,7 @@ def delete(CSV_filename):
             item_number = item_number
             break
 
-    #open and append the item rows to list and remove the row user need to delete
+    #open and append the item rows to list and remove the row user need  delete
     with open(CSV_filename, 'r') as readFile:
 
         reader = csv.reader(readFile)
