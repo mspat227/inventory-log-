@@ -1,5 +1,5 @@
-# QR code generator
-#### Video Demo:  <https://youtu.be/Q6V2yVYPX_E>
+# Inventory Log for vehicale spare parts
+#### Video Demo:  
 #### Description:
 
 ## Main Idea:
