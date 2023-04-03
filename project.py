@@ -216,7 +216,7 @@ def search(CSV_filename):
 #creating reports function
 def view_log(CSV_filename):
 
-    #creating the listr to append the csv file 
+    #creating the listr to append the csv  
     lines  = []
 
     with open(CSV_filename, 'r') as readFile:
