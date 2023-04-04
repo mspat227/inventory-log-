@@ -37,7 +37,7 @@ def main():
         except ValueError:
             print("Sorry, Wrong Operation")
 
-#creating menu function
+#menu function
 def menu():
     #creating table function with tabulate lib
     table = [["[1]", "Register Items"], ["[2]", "Delete Items"], ["[3]", "Search Items"], ["[4]", "Log"], ["[5]","Quit Programme"]]
