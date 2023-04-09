@@ -33,9 +33,9 @@ def main():
             elif user_input == 5:
                 sys.exit(0)
             else:
-                print("Sorry, Wrong Operation")
+                print("Sorry, Wrong Operation! Try again!")
         except ValueError:
-            print("Sorry, Wrong Operation")
+            print("Sorry, Wrong Operation Try again!")
 
 #menu function
 def menu():
