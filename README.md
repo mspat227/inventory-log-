@@ -17,7 +17,7 @@
 
 - the programme allows the user to search the data he added
 
-## Methodes and Mocules used:
+## Methodes and Modules used:
 
 - tabulate
 - datetime
