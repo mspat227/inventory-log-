@@ -233,3 +233,8 @@ def view_log(CSV_filename):
 
 if __name__=="__main__":
     main()
+
+'''
+this was my cs50 python final project 
+currently workn on the GUI
+'''
